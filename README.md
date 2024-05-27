@@ -50,4 +50,3 @@ Modulo-05:
   A implementar o fallback, que é a forma com que um microsserviço vai tratar a falha de comunicação, ou seja, uma estratégia para que a inoperabilidade de um serviço não afete o outro.
     
 ---
-
